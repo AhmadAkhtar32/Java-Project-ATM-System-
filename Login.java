@@ -1,3 +1,4 @@
+//This is the start point of the project
 package ASimulatorSystem;
 
 import java.awt.*;
