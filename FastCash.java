@@ -1,3 +1,4 @@
+/*Fast Cash File*/ 
 package ASimulatorSystem;
 
 import java.awt.*;
