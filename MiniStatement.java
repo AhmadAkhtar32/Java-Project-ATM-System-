@@ -1,3 +1,4 @@
+/*Mini Statement File*/ 
 package ASimulatorSystem;
 
 import java.awt.*;
