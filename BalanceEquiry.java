@@ -1,3 +1,4 @@
+/* Balance Inquiry File*/ 
 package ASimulatorSystem;
 
 import java.awt.*;
